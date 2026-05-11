@@ -14,7 +14,7 @@ Este projeto explora a intersecção entre criatividade humana e Inteligência A
 
 O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
 
-> [🔗 Acessar meu Gemini Gem — Especialista em Kendrick Lamar]([https://gemini.google.com/share/3209bcc22918](https://gemini.google.com/gem/1XRRdF8vSgsvN0bo45cTu2SwEFZbbhAyk?usp=sharing))
+> [🔗 Acessar meu Gemini Gem — Especialista em Kendrick Lamar]([https://gemini.google.com/share/3209bcc22918](https://gemini.google.com/gem/1XRRdF8vSgsvN0bo45cTu2SwEFZbbhAyk?usp=sharing)
 
 ## 🎧 Músicas Geradas
 
